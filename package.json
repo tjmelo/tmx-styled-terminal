@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"description": "A simple styled commands terminal",
 	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tjmelo/tmx-styled-terminal.git"
+	},
 	"scripts": {
 		"test": "npm run test"
 	},
