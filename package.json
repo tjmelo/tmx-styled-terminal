@@ -1,21 +1,21 @@
 {
-	"name": "@tmwd/tmx-styled-terminal",
+	"name": "@tjmelo/tmx-styled-terminal",
 	"version": "1.0.0",
-	"description": "A simple styled commands terminal",
+	"description": "",
 	"main": "index.js",
+	"scripts": {
+		"test": "npm run test"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/tjmelo/tmx-styled-terminal.git"
 	},
-	"scripts": {
-		"test": "npm run test"
-	},
-	"keywords": [
-		"terminal",
-		"styled"
-	],
-	"author": "thiago-melo <thiago.tmwd@gmail.com>",
+	"author": "tjmelo <thiago.tmwd@gmail.com>",
 	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/tjmelo/tmx-styled-terminal/issues"
+	},
+	"homepage": "https://github.com/tjmelo/tmx-styled-terminal#readme",
 	"dependencies": {
 		"chalk": "^4.1.2"
 	}
