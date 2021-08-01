@@ -1,6 +1,6 @@
 {
 	"name": "@tmwd/tmx-styled-terminal",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple styled commands terminal",
 	"main": "index.js",
 	"repository": {
